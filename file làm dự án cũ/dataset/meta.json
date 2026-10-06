@@ -1,0 +1,18 @@
+[
+  {
+    "face_id": 0,
+    "representative_image": "dataset\\images\\face_0_1788850097.jpg",
+    "first_seen": "2026-09-08T13:48:18",
+    "last_seen": "2026-09-08T14:27:03",
+    "sightings": [
+      {
+        "timestamp": "2026-09-08T13:48:18",
+        "image_path": "dataset\\images\\face_0_1788850097.jpg"
+      },
+      {
+        "timestamp": "2026-09-08T14:27:03",
+        "image_path": "dataset\\images\\face_0_1788852422.jpg"
+      }
+    ]
+  }
+]
