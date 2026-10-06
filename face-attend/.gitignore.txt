@@ -1,0 +1,1 @@
+dataset/ (toàn bộ ảnh mặt + embeddings + meta.json), __pycache__/, *.pyc, venv/ hoặc .venv/ (nếu dùng virtualenv)
