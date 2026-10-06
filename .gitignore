@@ -1,0 +1,15 @@
+# Bỏ qua CSDL và dữ liệu khuôn mặt
+backend/dataset/database.db
+*.db
+*.npy
+*.json
+
+# Bỏ qua file rác Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Bỏ qua file rác Frontend (Next.js)
+face-attend/node_modules/
+face-attend/.next/
